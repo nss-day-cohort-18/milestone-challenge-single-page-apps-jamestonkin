@@ -1,0 +1,22 @@
+body {
+  background: #191D4C;
+}
+
+.black-border {
+  border: 1px solid black;
+  background: #267593;
+  color: #fff;
+}
+
+.inner-pad {
+  padding: 5px;
+}
+
+.outer-pad {
+  padding-top: 10px;
+}
+
+.red-border {
+  border: 3px dotted red;
+  background: #000;
+}

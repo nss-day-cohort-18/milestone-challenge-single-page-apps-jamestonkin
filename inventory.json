@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": "2010",
+      "price": "7400",
+      "description": "This is a great friggin car, there are a few problems with it, something I don't want to talk about."
+    },
+    {
+      "make": "Chrysler",
+      "model": "M1 Abram",
+      "year": "1995",
+      "price": "150000",
+      "description": "Big, armored, you can run over everything with this joker."
+    },
+    {
+      "make": "Smart",
+      "model": "fortwo",
+      "year": "2012",
+      "price": "6000",
+      "description": "Take a look at this like-new 2012 Smart fortwo with an automatic transmission! Who says you can't keep the fun in functionality? It's like a reverse mullet; party in the front, business in the back."
+    },
+    {
+      "make": "Ford",
+      "model": "Pinto",
+      "year": "1971",
+      "price": "1",
+      "description": "Boom!"
+    }
+  ]
+}
